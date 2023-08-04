@@ -6,10 +6,11 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we got
 Find the sum of all the multiples of 3 or 5 below 1000.
 """
 
-def multiple:
-    solution = []
-    for num in range(num, 1000): 
+def multiple(limit):
+    sum = 0
+    for num in range(num, limit): 
         if num % 3 == 0 or num % 5 == 0:
-        solution.append(num)
+            sum += num
+return sum
 
-return sum(solution)
+multiple(1000)
