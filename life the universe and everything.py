@@ -3,9 +3,8 @@ Your program is to use the brute-force approach in order to find the Answer to L
 
 Source: SPOJ
 '''
-for num in range(n):
-    n = int(input())
-    if n == 42:
+while True:
+    num = int(input())
+    if num == 42:
         break
-    else:
-        print(num)
+print(num)
