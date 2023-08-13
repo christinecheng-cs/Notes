@@ -3,10 +3,9 @@ Your program is to use the brute-force approach in order to find the Answer to L
 
 Source: SPOJ
 '''
-def question(list):
-    for num in range(list):
-        n = int(input())
-        if n == 42:
-            break
-        else:
-            print(num)
+for num in range(n):
+    n = int(input())
+    if n == 42:
+        break
+    else:
+        print(num)
