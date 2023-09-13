@@ -17,3 +17,13 @@ def fibonacci_sum(num):
         if b % 2 == 0:
             ans = ans + b
 return ans
+
+def fib_generator(num):
+    if num == 0:
+        return []
+    else:
+        result = [1, 2]
+        for i in range(2, n):
+            result.append(result[-1] + result[-2])
+        return result
+        
