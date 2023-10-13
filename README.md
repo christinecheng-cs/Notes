@@ -1,10 +1,8 @@
 # Computer Science Notes
 
-Welcome to my Computer Science Notes and Exercises repository! 
-
 > A failure is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to stop   trying." -B.F. Skinner
 
-This repository contains a collection of notes, exercises, and coding examples to help you deepen your understanding of various computer science topics. 
+Welcome to my repository of computer science notes and exercises! This repository contains a collection of notes, exercises, and coding examples to help you deepen your understanding of various computer science topics. 
 
 - Notes: Detailed explanations and concepts related to the topic.
 - Exercises: Coding exercises from problem-solving challenges to apply your knowledge.
