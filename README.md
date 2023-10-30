@@ -6,6 +6,12 @@ Welcome to my repository of computer science notes and exercises! This repositor
 
 - Notes: Detailed explanations and concepts related to the topic.
 - Exercises: Coding exercises from problem-solving challenges to apply your knowledge.
-- Examples: Sample code snippets to illustrate key concepts.
+- Code Examples: Code snippets to illustrate key concepts.
+
+## Folders
+
+Notes
+Exercises
+Examples
 
 Feel free to explore the sections and use the content for self-study, as a reference, or to improve your programming skills. You can also contribute to this repository by submitting pull requests with additional notes, exercises, or examples.
